@@ -27,3 +27,6 @@ $('.action-icon-bg').css('background-color', 'red')
 
 9.
 $('form #name').attr('placeholder', 'Identify Yourself')
+
+10.
+$('form #message').attr('placeholder', 'State your business')
