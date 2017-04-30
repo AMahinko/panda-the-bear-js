@@ -12,3 +12,6 @@ $('#employment h3').text('Experience')
 
 5.
 $('body').css('background', 'red')
+
+6.
+$('.highlight').css('background-color', 'red')
