@@ -1,14 +1,17 @@
 1.
 $(".profile-image").attr("src", "http://www.lorempixel.com/400/400/")
 
-2.
+1.
 $('.photography').attr('src', 'http://www.lorempixel.com/325/225')
 
-3.
+2.
 $('h1').text('Alex M.')
 
-4.
+3.
 $('#employment h3').text('Experience')
+
+4.
+$('.bar-default')[2].remove()
 
 5.
 $('body').css('background', 'red')
