@@ -24,3 +24,6 @@ $('h1').css('font-family', 'monospace')
 
 8.
 $('.action-icon-bg').css('background-color', 'red')
+
+9.
+$('form #name').attr('placeholder', 'Identify Yourself')
