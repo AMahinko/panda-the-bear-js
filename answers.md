@@ -30,3 +30,12 @@ $('form #name').attr('placeholder', 'Identify Yourself')
 
 10.
 $('form #message').attr('placeholder', 'State your business')
+
+11.
+$('form #name').attr('value', 'Your nemesis')
+
+12.
+$('form #email').attr('value', 'koalathebear@gmail.com')
+
+13.
+$('form, #submit').attr('value', 'En Garde')
