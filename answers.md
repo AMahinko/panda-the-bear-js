@@ -6,3 +6,6 @@ $('.photography').attr('src', 'http://www.lorempixel.com/325/225')
 
 3.
 $('h1').text('Alex M.')
+
+4.
+$('#employment h3').text('Experience')
