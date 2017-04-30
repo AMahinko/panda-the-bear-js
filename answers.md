@@ -15,3 +15,8 @@ $('body').css('background', 'red')
 
 6.
 $('.highlight').css('background-color', 'red')
+
+7.
+$('h1').css('font-family', 'monospace')
+
+8.
