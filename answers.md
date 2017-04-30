@@ -9,3 +9,6 @@ $('h1').text('Alex M.')
 
 4.
 $('#employment h3').text('Experience')
+
+5.
+$('body').css('background', 'red')
