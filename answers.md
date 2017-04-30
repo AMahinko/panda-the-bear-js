@@ -39,3 +39,8 @@ $('form #email').attr('value', 'koalathebear@gmail.com')
 
 13.
 $('form, #submit').attr('value', 'En Garde')
+
+-----
+
+1.
+$('#right-image').clone().appendTo('.portfolio-container')
