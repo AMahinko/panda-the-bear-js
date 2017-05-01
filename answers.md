@@ -48,3 +48,6 @@ $('#right-image').clone().appendTo('.portfolio-container')
 2.
 var x = 0;
 do {$('#right-image').clone().appendTo('.portfolio-container'); x++;} while (x<10)
+
+3.
+$('ul').append('<li class=\'bio-info-item\'><span class=\'bio-info-title\'>Last Updated</span><span class=\'bio-info-value\'>Mon, April 1st, 2:50pm EST </span> </li>')
