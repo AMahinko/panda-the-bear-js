@@ -44,3 +44,7 @@ $('form, #submit').attr('value', 'En Garde')
 
 1.
 $('#right-image').clone().appendTo('.portfolio-container')
+
+2.
+var x = 0;
+do {$('#right-image').clone().appendTo('.portfolio-container'); x++;} while (x<10)
